@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/Bergvdngithub.lwc-ksj8u41f",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve jUq7Og8UyF3gZKtoObBr --open"
+  }
+}
